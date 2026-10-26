@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Volume Flutuante</string>
+    <string name="permission_title">Permissão de sobreposição</string>
+    <string name="permission_granted">Permissão concedida ✔</string>
+    <string name="permission_missing">É preciso permitir que o app apareça sobre outros apps.</string>
+    <string name="grant_permission">Conceder permissão</string>
+    <string name="start">Mostrar botão flutuante</string>
+    <string name="stop">Ocultar botão flutuante</string>
+    <string name="transparency">Transparência</string>
+    <string name="size">Tamanho do botão</string>
+    <string name="stream">Volume controlado</string>
+    <string name="show_system_ui">Mostrar painel de volume do sistema</string>
+    <string name="channel_name">Botão flutuante</string>
+    <string name="notification_text">Botão de volume ativo. Toque para configurar.</string>
+    <string name="action_stop">Parar</string>
+    <string name="hint">Dica: toque no botão para abrir os controles e arraste-o para mudar de lugar.</string>
+</resources>
